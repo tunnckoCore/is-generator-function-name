@@ -1,6 +1,6 @@
 {
   "name": "is-generator-function-name",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check that given value have `GeneratorFunction` name or displayName.",
   "repository": "tunnckoCore/is-generator-function-name",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
