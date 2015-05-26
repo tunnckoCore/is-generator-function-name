@@ -11,6 +11,9 @@ module.exports = function isGeneratorFunctionName (co) {
   if (!co || !co.constructor) {
     return false
   }
-  return co.constructor.name === 'GeneratorFunction' ||
-  co.constructor.displayName === 'GeneratorFunction'
+
+  var constr = co.constructor
+  var name = 'GeneratorFunction'
+
+  return constr.name === name || constr.displayName === name
 }
