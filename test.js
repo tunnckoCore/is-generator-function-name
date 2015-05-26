@@ -18,7 +18,7 @@ test('is-generator-function-name:', function () {
       test.equal(isGeneratorFunctionName(null), false)
       test.equal(isGeneratorFunctionName(undefined), false)
       test.equal(isGeneratorFunctionName([1, 2, 3]), false)
-      test.equal(isGeneratorFunctionName({then: true}), false)
+      test.equal(isGeneratorFunctionName({name: 'GeneratorFunction'}), false)
       test.equal(isGeneratorFunctionName(25), false)
       test.equal(isGeneratorFunctionName('test'), false)
     })

@@ -18,7 +18,7 @@ npm test
 ```js
 var isGeneratorFunctionName = require('is-generator-function-name')
 
-isGeneratorFunctionName({foo: 'bar'})
+isGeneratorFunctionName({name: 'GeneratorFunction'})
 //=> false
 
 isGeneratorFunctionName(function () {})
