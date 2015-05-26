@@ -1,11 +1,11 @@
 {
   "name": "is-generator-function-name",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check that given value have `GeneratorFunction` name.",
   "repository": "tunnckoCore/is-generator-function-name",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
   "main": "index.js",
-  "license": "MIT", 
+  "license": "MIT",
   "scripts": {
     "test": "standard && node test.js"
   },
@@ -13,5 +13,22 @@
   "devDependencies": {
     "assertit": "^0.1.0"
   },
-  "keywords": []
+  "keywords": [
+    "check",
+    "gen",
+    "next",
+    "es2015",
+    "es6",
+    "es7",
+    "function",
+    "generator",
+    "generators",
+    "generator-function",
+    "generatorfunction",
+    "has",
+    "is-generator",
+    "is-generator-function",
+    "validate",
+    "value"
+  ]
 }
