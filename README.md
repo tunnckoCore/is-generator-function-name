@@ -63,7 +63,7 @@ But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) 
 [coveralls-img]: https://img.shields.io/coveralls/tunnckoCore/is-generator-function-name.svg
 
 [david-url]: https://david-dm.org/tunnckoCore/is-generator-function-name
-[david-img]: https://img.shields.io/david/tunnckoCore/is-generator-function-name.svg
+[david-img]: https://img.shields.io/david/dev/tunnckoCore/is-generator-function-name.svg
 
 [standard-url]: https://github.com/feross/standard
 [standard-img]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
